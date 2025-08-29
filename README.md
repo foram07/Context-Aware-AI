@@ -97,3 +97,10 @@ streamlit run app.py
 - 🚀 AI Chatbot Portfolio Project
 - 🏢 Enterprise Knowledge Assistant
 - 🧑‍💻 AI Developer Showcases
+
+## 🚀 Deployment on Streamlit Cloud
+
+This project is deployed on **Streamlit Cloud**, making it easy for anyone to view and use the app without installing dependencies locally.  
+
+🔗 **Live App:** [Streamlit App](https://context-aware-ai-apps.streamlit.app/)
+
