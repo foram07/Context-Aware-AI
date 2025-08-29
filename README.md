@@ -84,7 +84,7 @@ streamlit run app.py
 
 ## 🖼️ Demo Screenshot
 
-<img src="assets/image.png" alt="App Screenshot" width="400"/>
+<img src="assets/image.png" alt="App Screenshot" width="1000"/>
 
 ## 🔥 Why This Project?
 
